@@ -1,0 +1,14 @@
+<svg id="yellow-gem" width="90" height="145" viewBox="0 0 90 145" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M45 5L5 75L45 140L85 75L45 5Z">
+        <animate attributeName="fill" dur="1s" values="#F7CA59; #F9D86D; #F5B752;" repeatCount="indefinite" />
+    </path>
+    <path d="M5 75L45 5L35 80L45 140L5 75Z">
+        <animate attributeName="fill" dur="1s" values="#F9D86D; #F5B752; #F7CA59;" repeatCount="indefinite" />
+    </path>
+    <path d="M85 75L45 5L55 80L45 140L85 75Z">
+        <animate attributeName="fill" dur="1s" values="#F5B752; #F7CA59; #F9D86D;" repeatCount="indefinite" />
+    </path>
+    <path d="M45 5L5 75L45 140L35 80H55L85 75" stroke="white" stroke-width="1"/>
+    <path d="M45 5L85 75L45 140" stroke="white" stroke-width="1"/>
+    <path d="M5 75L35 80L45 5L55 80L45 140" stroke="white" stroke-width="1"/>
+</svg>
