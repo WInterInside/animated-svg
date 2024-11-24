@@ -1,9 +1,9 @@
 <svg width="270" height="435" viewBox="0 0 270 435" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path fill-rule="evenodd" clip-rule="evenodd" d="M135 15L30 225L135 420L240 225L135 15Z">
-        <animate attributeName="fill" dur="2s" values="#F7CA59; #F9D86D; #F5B752;" repeatCount="indefinite" />
+        <animate attributeName="fill" dur="2s" values="#F7CA59; #F9D86D; #F5B752; #F7CA59;" repeatCount="indefinite" />
     </path>
     <path d="M30 225L135 15L105 240L135 420L30 225Z">
-        <animate attributeName="fill" dur="2s" values="#F9D86D; #F5B752; #F7CA59;" repeatCount="indefinite" />
+        <animate attributeName="fill" dur="2s" values="#F9D86D; #F5B752; #F7CA59; #F9D86D;" repeatCount="indefinite" />
     </path>
     <path d="M240 225L135 15L165 240L135 420L240 225Z">
         <animate attributeName="fill" dur="2s" values="#F5B752; #F7CA59; #F9D86D; #F5B752;" repeatCount="indefinite" />
